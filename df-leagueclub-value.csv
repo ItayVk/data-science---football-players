@@ -1,0 +1,732 @@
+,club_name,league_name,country_name,club_value,league_value,average_league_value
+0,Manchester City,Premier League,England,1050000000,10320000000,21635220
+1,Chelsea FC,Premier League,England,1040000000,10320000000,21635220
+2,Liverpool FC,Premier League,England,931000000,10320000000,21635220
+3,Arsenal FC,Premier League,England,803000000,10320000000,21635220
+4,Manchester United,Premier League,England,759200000,10320000000,21635220
+5,Tottenham Hotspur,Premier League,England,711300000,10320000000,21635220
+6,Newcastle United,Premier League,England,474400000,10320000000,21635220
+7,West Ham United,Premier League,England,471500000,10320000000,21635220
+8,Leicester City,Premier League,England,455100000,10320000000,21635220
+9,Aston Villa,Premier League,England,445800000,10320000000,21635220
+10,Wolverhampton Wanderers,Premier League,England,393700000,10320000000,21635220
+11,Southampton FC,Premier League,England,387500000,10320000000,21635220
+12,Everton FC,Premier League,England,368100000,10320000000,21635220
+13,Nottingham Forest,Premier League,England,332650000,10320000000,21635220
+14,Crystal Palace,Premier League,England,309200000,10320000000,21635220
+15,Brighton & Hove Albion,Premier League,England,308600000,10320000000,21635220
+16,Brentford FC,Premier League,England,305100000,10320000000,21635220
+17,Leeds United,Premier League,England,295000000,10320000000,21635220
+18,Fulham FC,Premier League,England,245500000,10320000000,21635220
+19,AFC Bournemouth,Premier League,England,226700000,10320000000,21635220
+20,Real Madrid,LaLiga,Spain,849000000,4830000000,10638766
+21,FC Barcelona,LaLiga,Spain,762000000,4830000000,10638766
+22,Atlético de Madrid,LaLiga,Spain,489000000,4830000000,10638766
+23,Real Sociedad,LaLiga,Spain,380500000,4830000000,10638766
+24,Villarreal CF,LaLiga,Spain,289700000,4830000000,10638766
+25,Real Betis Balompié,LaLiga,Spain,262500000,4830000000,10638766
+26,Valencia CF,LaLiga,Spain,249500000,4830000000,10638766
+27,Sevilla FC,LaLiga,Spain,240000000,4830000000,10638766
+28,Athletic Bilbao,LaLiga,Spain,221800000,4830000000,10638766
+29,Getafe CF,LaLiga,Spain,142200000,4830000000,10638766
+30,Celta de Vigo,LaLiga,Spain,125500000,4830000000,10638766
+31,CA Osasuna,LaLiga,Spain,124200000,4830000000,10638766
+32,Girona FC,LaLiga,Spain,114700000,4830000000,10638766
+33,RCD Espanyol Barcelona,LaLiga,Spain,108400000,4830000000,10638766
+34,UD Almería,LaLiga,Spain,95700000,4830000000,10638766
+35,Rayo Vallecano,LaLiga,Spain,88200000,4830000000,10638766
+36,RCD Mallorca,LaLiga,Spain,85100000,4830000000,10638766
+37,Real Valladolid CF,LaLiga,Spain,69300000,4830000000,10638766
+38,Elche CF,LaLiga,Spain,67600000,4830000000,10638766
+39,Cádiz CF,LaLiga,Spain,61900000,4830000000,10638766
+40,AC Milan,Serie A,Italy,571400000,4550000000,10111111
+41,Inter Milan,Serie A,Italy,555950000,4550000000,10111111
+42,SSC Napoli,Serie A,Italy,543000000,4550000000,10111111
+43,Juventus FC,Serie A,Italy,442300000,4550000000,10111111
+44,AS Roma,Serie A,Italy,338000000,4550000000,10111111
+45,Atalanta BC,Serie A,Italy,307450000,4550000000,10111111
+46,SS Lazio,Serie A,Italy,264400000,4550000000,10111111
+47,ACF Fiorentina,Serie A,Italy,235750000,4550000000,10111111
+48,US Sassuolo,Serie A,Italy,177900000,4550000000,10111111
+49,Torino FC,Serie A,Italy,154030000,4550000000,10111111
+50,Udinese Calcio,Serie A,Italy,139750000,4550000000,10111111
+51,Bologna FC 1909,Serie A,Italy,125000000,4550000000,10111111
+52,AC Monza,Serie A,Italy,108500000,4550000000,10111111
+53,US Salernitana 1919,Serie A,Italy,100850000,4550000000,10111111
+54,FC Empoli,Serie A,Italy,91700000,4550000000,10111111
+55,Spezia Calcio,Serie A,Italy,80400000,4550000000,10111111
+56,Hellas Verona,Serie A,Italy,77950000,4550000000,10111111
+57,US Lecce,Serie A,Italy,73430000,4550000000,10111111
+58,UC Sampdoria,Serie A,Italy,72100000,4550000000,10111111
+59,US Cremonese,Serie A,Italy,59050000,4550000000,10111111
+60,Bayern Munich,Bundesliga,Germany,995700000,4290000000,9662162
+61,Borussia Dortmund,Bundesliga,Germany,522700000,4290000000,9662162
+62,RB Leipzig,Bundesliga,Germany,493300000,4290000000,9662162
+63,Bayer 04 Leverkusen,Bundesliga,Germany,416350000,4290000000,9662162
+64,Eintracht Frankfurt,Bundesliga,Germany,267950000,4290000000,9662162
+65,Borussia Mönchengladbach,Bundesliga,Germany,233000000,4290000000,9662162
+66,VfL Wolfsburg,Bundesliga,Germany,188200000,4290000000,9662162
+67,TSG 1899 Hoffenheim,Bundesliga,Germany,170950000,4290000000,9662162
+68,SC Freiburg,Bundesliga,Germany,161630000,4290000000,9662162
+69,VfB Stuttgart,Bundesliga,Germany,123350000,4290000000,9662162
+70,1.FC Union Berlin,Bundesliga,Germany,117900000,4290000000,9662162
+71,1.FSV Mainz 05,Bundesliga,Germany,113200000,4290000000,9662162
+72,FC Augsburg,Bundesliga,Germany,112350000,4290000000,9662162
+73,Hertha BSC,Bundesliga,Germany,97200000,4290000000,9662162
+74,1. FC Köln,Bundesliga,Germany,96030000,4290000000,9662162
+75,SV Werder Bremen,Bundesliga,Germany,73050000,4290000000,9662162
+76,FC Schalke 04,Bundesliga,Germany,60600000,4290000000,9662162
+77,VfL Bochum,Bundesliga,Germany,46630000,4290000000,9662162
+78,Paris Saint-Germain,Ligue 1,France,889050000,3350000000,7579185
+79,Stade Rennais FC,Ligue 1,France,319500000,3350000000,7579185
+80,AS Monaco,Ligue 1,France,306400000,3350000000,7579185
+81,Olympique Marseille,Ligue 1,France,241200000,3350000000,7579185
+82,OGC Nice,Ligue 1,France,202800000,3350000000,7579185
+83,Olympique Lyon,Ligue 1,France,199800000,3350000000,7579185
+84,LOSC Lille,Ligue 1,France,185700000,3350000000,7579185
+85,RC Lens,Ligue 1,France,168300000,3350000000,7579185
+86,FC Nantes,Ligue 1,France,118300000,3350000000,7579185
+87,Montpellier HSC,Ligue 1,France,103900000,3350000000,7579185
+88,RC Strasbourg Alsace,Ligue 1,France,92300000,3350000000,7579185
+89,FC Lorient,Ligue 1,France,80500000,3350000000,7579185
+90,ESTAC Troyes,Ligue 1,France,78000000,3350000000,7579185
+91,Stade Brestois 29,Ligue 1,France,72300000,3350000000,7579185
+92,Stade Reims,Ligue 1,France,70200000,3350000000,7579185
+93,FC Toulouse,Ligue 1,France,61350000,3350000000,7579185
+94,Angers SCO,Ligue 1,France,55000000,3350000000,7579185
+95,AJ Auxerre,Ligue 1,France,49200000,3350000000,7579185
+96,Clermont Foot 63,Ligue 1,France,32900000,3350000000,7579185
+97,AC Ajaccio,Ligue 1,France,25950000,3350000000,7579185
+98,SL Benfica,Liga Portugal,Portugal,277500000,1170000000,2677345
+99,FC Porto,Liga Portugal,Portugal,264200000,1170000000,2677345
+100,Sporting CP,Liga Portugal,Portugal,228300000,1170000000,2677345
+101,SC Braga,Liga Portugal,Portugal,106800000,1170000000,2677345
+102,FC Famalicão,Liga Portugal,Portugal,37600000,1170000000,2677345
+103,Vitória Guimarães SC,Liga Portugal,Portugal,37280000,1170000000,2677345
+104,CD Santa Clara,Liga Portugal,Portugal,25200000,1170000000,2677345
+105,GD Estoril Praia,Liga Portugal,Portugal,23230000,1170000000,2677345
+106,Gil Vicente FC,Liga Portugal,Portugal,23200000,1170000000,2677345
+107,Boavista FC,Liga Portugal,Portugal,20050000,1170000000,2677345
+108,Portimonense SC,Liga Portugal,Portugal,20000000,1170000000,2677345
+109,FC Paços de Ferreira,Liga Portugal,Portugal,18230000,1170000000,2677345
+110,CS Marítimo,Liga Portugal,Portugal,16850000,1170000000,2677345
+111,Casa Pia AC,Liga Portugal,Portugal,15750000,1170000000,2677345
+112,FC Arouca,Liga Portugal,Portugal,14200000,1170000000,2677345
+113,Rio Ave FC,Liga Portugal,Portugal,13530000,1170000000,2677345
+114,FC Vizela,Liga Portugal,Portugal,13450000,1170000000,2677345
+115,GD Chaves,Liga Portugal,Portugal,11530000,1170000000,2677345
+116,Fenerbahce,Süper Lig,Turkey,177600000,989030000,2366100
+117,Galatasaray,Süper Lig,Turkey,166250000,989030000,2366100
+118,Trabzonspor,Süper Lig,Turkey,139100000,989030000,2366100
+119,Besiktas JK,Süper Lig,Turkey,122180000,989030000,2366100
+120,Basaksehir FK,Süper Lig,Turkey,45880000,989030000,2366100
+121,Adana Demirspor,Süper Lig,Turkey,39030000,989030000,2366100
+122,Konyaspor,Süper Lig,Turkey,38180000,989030000,2366100
+123,Antalyaspor,Süper Lig,Turkey,37500000,989030000,2366100
+124,Alanyaspor,Süper Lig,Turkey,36500000,989030000,2366100
+125,Kasimpasa,Süper Lig,Turkey,32930000,989030000,2366100
+126,Sivasspor,Süper Lig,Turkey,28230000,989030000,2366100
+127,Hatayspor,Süper Lig,Turkey,26150000,989030000,2366100
+128,Fatih Karagümrük,Süper Lig,Turkey,25980000,989030000,2366100
+129,MKE Ankaragücü,Süper Lig,Turkey,25780000,989030000,2366100
+130,Gaziantep FK,Süper Lig,Turkey,25400000,989030000,2366100
+131,Kayserispor,Süper Lig,Turkey,23780000,989030000,2366100
+132,Giresunspor,Süper Lig,Turkey,16800000,989030000,2366100
+133,Ümraniyespor,Süper Lig,Turkey,13480000,989030000,2366100
+134,Istanbulspor,Süper Lig,Turkey,12080000,989030000,2366100
+135,Ajax Amsterdam,Eredivisie,Netherlands,274850000,1030000000,2440758
+136,PSV Eindhoven,Eredivisie,Netherlands,184350000,1030000000,2440758
+137,Feyenoord Rotterdam,Eredivisie,Netherlands,149300000,1030000000,2440758
+138,AZ Alkmaar,Eredivisie,Netherlands,93650000,1030000000,2440758
+139,Vitesse Arnhem,Eredivisie,Netherlands,41280000,1030000000,2440758
+140,Twente Enschede FC,Eredivisie,Netherlands,40130000,1030000000,2440758
+141,FC Utrecht,Eredivisie,Netherlands,40050000,1030000000,2440758
+142,FC Groningen,Eredivisie,Netherlands,33580000,1030000000,2440758
+143,SC Heerenveen,Eredivisie,Netherlands,32200000,1030000000,2440758
+144,Fortuna Sittard,Eredivisie,Netherlands,22450000,1030000000,2440758
+145,NEC Nijmegen,Eredivisie,Netherlands,19050000,1030000000,2440758
+146,SC Cambuur Leeuwarden,Eredivisie,Netherlands,17080000,1030000000,2440758
+147,Excelsior Rotterdam,Eredivisie,Netherlands,15050000,1030000000,2440758
+148,FC Emmen,Eredivisie,Netherlands,14000000,1030000000,2440758
+149,RKC Waalwijk,Eredivisie,Netherlands,13630000,1030000000,2440758
+150,FC Volendam,Eredivisie,Netherlands,12550000,1030000000,2440758
+151,Go Ahead Eagles,Eredivisie,Netherlands,12030000,1030000000,2440758
+152,Sparta Rotterdam,Eredivisie,Netherlands,11730000,1030000000,2440758
+153,Club Brugge KV,Jupiler Pro League,Belgium,173750000,826130000,1995483
+154,KRC Genk,Jupiler Pro League,Belgium,99550000,826130000,1995483
+155,RSC Anderlecht,Jupiler Pro League,Belgium,75450000,826130000,1995483
+156,Royal Antwerp FC,Jupiler Pro League,Belgium,73650000,826130000,1995483
+157,KAA Gent,Jupiler Pro League,Belgium,67400000,826130000,1995483
+158,Royale Union Saint Gilloise,Jupiler Pro League,Belgium,44050000,826130000,1995483
+159,Standard Liège,Jupiler Pro League,Belgium,39350000,826130000,1995483
+160,RSC Charleroi,Jupiler Pro League,Belgium,37150000,826130000,1995483
+161,Cercle Brugge ,Jupiler Pro League,Belgium,29050000,826130000,1995483
+162,Oud-Heverlee Leuven,Jupiler Pro League,Belgium,28200000,826130000,1995483
+163,KVC Westerlo,Jupiler Pro League,Belgium,26750000,826130000,1995483
+164,KV Mechelen,Jupiler Pro League,Belgium,26350000,826130000,1995483
+165,KV Oostende,Jupiler Pro League,Belgium,23350000,826130000,1995483
+166,KV Kortrijk,Jupiler Pro League,Belgium,22700000,826130000,1995483
+167,KAS Eupen,Jupiler Pro League,Belgium,17850000,826130000,1995483
+168,SV Zulte Waregem,Jupiler Pro League,Belgium,14750000,826130000,1995483
+169,Sint-Truidense VV,Jupiler Pro League,Belgium,14400000,826130000,1995483
+170,RFC Seraing,Jupiler Pro League,Belgium,12380000,826130000,1995483
+171,Zenit St. Petersburg,Premier Liga,Russia,152800000,757230000,1860515
+172,Spartak Moscow,Premier Liga,Russia,86800000,757230000,1860515
+173,Dynamo Moscow,Premier Liga,Russia,80950000,757230000,1860515
+174,FK Krasnodar,Premier Liga,Russia,71100000,757230000,1860515
+175,CSKA Moscow,Premier Liga,Russia,69850000,757230000,1860515
+176,Lokomotiv Moscow,Premier Liga,Russia,69100000,757230000,1860515
+177,FK Rostov,Premier Liga,Russia,47350000,757230000,1860515
+178,Krylya Sovetov Samara,Premier Liga,Russia,33800000,757230000,1860515
+179,FC Sochi,Premier Liga,Russia,27050000,757230000,1860515
+180,Akhmat Grozny,Premier Liga,Russia,26330000,757230000,1860515
+181,Ural Yekaterinburg,Premier Liga,Russia,19600000,757230000,1860515
+182,FC Pari Nizhniy Novgorod,Premier Liga,Russia,17900000,757230000,1860515
+183,FK Orenburg,Premier Liga,Russia,17700000,757230000,1860515
+184,FK Khimki,Premier Liga,Russia,17250000,757230000,1860515
+185,Torpedo Moscow,Premier Liga,Russia,12900000,757230000,1860515
+186,Fakel Voronezh,Premier Liga,Russia,10700000,757230000,1860515
+187,Red Bull Salzburg,Bundesliga,Austria,223330000,416850000,1036940
+188,SK Sturm Graz,Bundesliga,Austria,40480000,416850000,1036940
+189,LASK,Bundesliga,Austria,27480000,416850000,1036940
+190,Rapid Vienna,Bundesliga,Austria,24680000,416850000,1036940
+191,Austria Vienna,Bundesliga,Austria,23730000,416850000,1036940
+192,Wolfsberger AC,Bundesliga,Austria,14880000,416850000,1036940
+193,SCR Altach,Bundesliga,Austria,11400000,416850000,1036940
+194,SK Austria Klagenfurt,Bundesliga,Austria,11250000,416850000,1036940
+195,TSV Hartberg,Bundesliga,Austria,10700000,416850000,1036940
+196,SC Austria Lustenau,Bundesliga,Austria,10100000,416850000,1036940
+197,SV Ried,Bundesliga,Austria,9750000,416850000,1036940
+198,WSG Tirol,Bundesliga,Austria,8850000,416850000,1036940
+199,Olympiacos Piraeus,Super League 1,Greece,104200000,382430000,953690
+200,PAOK Thessaloniki,Super League 1,Greece,54180000,382430000,953690
+201,AEK Athens,Super League 1,Greece,52550000,382430000,953690
+202,Panathinaikos Athens,Super League 1,Greece,43800000,382430000,953690
+203,Aris Thessaloniki,Super League 1,Greece,29750000,382430000,953690
+204,Atromitos Athen,Super League 1,Greece,14250000,382430000,953690
+205,OFI Crete FC,Super League 1,Greece,13500000,382430000,953690
+206,APO Levadiakos,Super League 1,Greece,12130000,382430000,953690
+207,Panetolikos GFS,Super League 1,Greece,12050000,382430000,953690
+208,Volos NPS,Super League 1,Greece,10180000,382430000,953690
+209,PAS Giannina,Super League 1,Greece,9650000,382430000,953690
+210,Asteras Tripolis,Super League 1,Greece,8980000,382430000,953690
+211,Ionikos Nikeas,Super League 1,Greece,8600000,382430000,953690
+212,PAS Lamia 1964,Super League 1,Greece,8230000,382430000,953690
+213,Rangers FC,Premiership,Scotland,138950000,358700000,948941
+214,Celtic FC,Premiership,Scotland,104600000,358700000,948941
+215,Heart of Midlothian FC,Premiership,Scotland,18130000,358700000,948941
+216,Hibernian FC,Premiership,Scotland,16600000,358700000,948941
+217,Aberdeen FC,Premiership,Scotland,12900000,358700000,948941
+218,St. Johnstone FC,Premiership,Scotland,10580000,358700000,948941
+219,St. Mirren FC,Premiership,Scotland,8930000,358700000,948941
+220,Livingston FC,Premiership,Scotland,8850000,358700000,948941
+221,Motherwell FC,Premiership,Scotland,8700000,358700000,948941
+222,Ross County FC,Premiership,Scotland,8630000,358700000,948941
+223,Kilmarnock FC,Premiership,Scotland,8280000,358700000,948941
+224,Dundee United FC,Premiership,Scotland,7950000,358700000,948941
+225,Shakhtar Donetsk,Premier Liga,Ukraine,78200000,268680000,756845
+226,Dynamo Kyiv,Premier Liga,Ukraine,62800000,268680000,756845
+227,SK Dnipro-1,Premier Liga,Ukraine,31800000,268680000,756845
+228,Zorya Lugansk,Premier Liga,Ukraine,13600000,268680000,756845
+229,FK Oleksandriya,Premier Liga,Ukraine,10630000,268680000,756845
+230,Vorskla Poltava,Premier Liga,Ukraine,10500000,268680000,756845
+231,Kolos Kovalivka,Premier Liga,Ukraine,8350000,268680000,756845
+232,Metalist Kharkiv,Premier Liga,Ukraine,7100000,268680000,756845
+233,Chornomorets Odessa,Premier Liga,Ukraine,6330000,268680000,756845
+234,Rukh Lviv,Premier Liga,Ukraine,6200000,268680000,756845
+235,Metalist 1925 Kharkiv,Premier Liga,Ukraine,6080000,268680000,756845
+236,Kryvbas Kryvyi Rig,Premier Liga,Ukraine,5980000,268680000,756845
+237,Ingulets Petrove,Premier Liga,Ukraine,5850000,268680000,756845
+238,NK Veres Rivne,Premier Liga,Ukraine,5530000,268680000,756845
+239,PFK Lviv,Premier Liga,Ukraine,4530000,268680000,756845
+240,FK Minaj,Premier Liga,Ukraine,4400000,268680000,756845
+241,BSC Young Boys,Super League,Switzerland,55480000,258650000,741117
+242,FC Basel 1893,Super League,Switzerland,42180000,258650000,741117
+243,FC Zürich,Super League,Switzerland,29950000,258650000,741117
+244,Servette FC,Super League,Switzerland,26880000,258650000,741117
+245,FC St. Gallen 1879,Super League,Switzerland,26530000,258650000,741117
+246,Grasshopper Club Zurich,Super League,Switzerland,21950000,258650000,741117
+247,FC Luzern,Super League,Switzerland,20550000,258650000,741117
+248,FC Sion,Super League,Switzerland,16760000,258650000,741117
+249,FC Lugano,Super League,Switzerland,15860000,258650000,741117
+250,FC Winterthur,Super League,Switzerland,9430000,258650000,741117
+251,GNK Dinamo Zagreb,SuperSport HNL,Croatia,96300000,252530000,725660
+252,HNK Hajduk Split,SuperSport HNL,Croatia,42450000,252530000,725660
+253,HNK Rijeka,SuperSport HNL,Croatia,21830000,252530000,725660
+254,NK Lokomotiva Zagreb,SuperSport HNL,Croatia,18850000,252530000,725660
+255,NK Osijek,SuperSport HNL,Croatia,17750000,252530000,725660
+256,HNK Gorica,SuperSport HNL,Croatia,14180000,252530000,725660
+257,NK Istra 1961,SuperSport HNL,Croatia,11030000,252530000,725660
+258,NK Varazdin,SuperSport HNL,Croatia,10630000,252530000,725660
+259,HNK Sibenik,SuperSport HNL,Croatia,9880000,252530000,725660
+260,Slaven Belupo Koprivnica,SuperSport HNL,Croatia,7600000,252530000,725660
+261,FC Copenhagen,Superligaen,Denmark,64400000,249680000,727930
+262,Bröndby IF,Superligaen,Denmark,35250000,249680000,727930
+263,FC Midtjylland,Superligaen,Denmark,34500000,249680000,727930
+264,FC Nordsjaelland,Superligaen,Denmark,22850000,249680000,727930
+265,Aalborg BK,Superligaen,Denmark,15050000,249680000,727930
+266,Aarhus GF,Superligaen,Denmark,14850000,249680000,727930
+267,Randers FC,Superligaen,Denmark,14150000,249680000,727930
+268,Silkeborg IF,Superligaen,Denmark,11550000,249680000,727930
+269,Odense Boldklub,Superligaen,Denmark,11550000,249680000,727930
+270,Viborg FF,Superligaen,Denmark,10350000,249680000,727930
+271,AC Horsens,Superligaen,Denmark,8480000,249680000,727930
+272,Lyngby BK,Superligaen,Denmark,6800000,249680000,727930
+273,Rakow Czestochowa,Ekstraklasa,Poland,32380000,241850000,724101
+274,Lech Poznan,Ekstraklasa,Poland,30630000,241850000,724101
+275,Legia Warszawa,Ekstraklasa,Poland,19450000,241850000,724101
+276,Pogon Szczecin,Ekstraklasa,Poland,18750000,241850000,724101
+277,Cracovia,Ekstraklasa,Poland,15000000,241850000,724101
+278,Zaglebie Lubin,Ekstraklasa,Poland,12500000,241850000,724101
+279,Jagiellonia Bialystok,Ekstraklasa,Poland,11730000,241850000,724101
+280,Górnik Zabrze,Ekstraklasa,Poland,10950000,241850000,724101
+281,Lechia Gdansk,Ekstraklasa,Poland,10880000,241850000,724101
+282,Widzew Lodz,Ekstraklasa,Poland,10750000,241850000,724101
+283,Piast Gliwice,Ekstraklasa,Poland,10680000,241850000,724101
+284,Wisla Plock,Ekstraklasa,Poland,10500000,241850000,724101
+285,Warta Poznan,Ekstraklasa,Poland,9880000,241850000,724101
+286,Slask Wroclaw,Ekstraklasa,Poland,9880000,241850000,724101
+287,Radomiak Radom,Ekstraklasa,Poland,8750000,241850000,724101
+288,Stal Mielec,Ekstraklasa,Poland,7730000,241850000,724101
+289,Miedz Legnica,Ekstraklasa,Poland,7230000,241850000,724101
+290,Korona Kielce,Ekstraklasa,Poland,7080000,241850000,724101
+291,Red Star Belgrade,Super liga Srbije,Serbia,58700000,234090000,713689
+292,FK Partizan Belgrade,Super liga Srbije,Serbia,43630000,234090000,713689
+293,FK Čukarički,Super liga Srbije,Serbia,18850000,234090000,713689
+294,FK Vojvodina Novi Sad,Super liga Srbije,Serbia,15580000,234090000,713689
+295,FK TSC Backa Topola,Super liga Srbije,Serbia,15050000,234090000,713689
+296,FK Vozdovac,Super liga Srbije,Serbia,9400000,234090000,713689
+297,FK Novi Pazar,Super liga Srbije,Serbia,8550000,234090000,713689
+298,FK Spartak Subotica,Super liga Srbije,Serbia,8350000,234090000,713689
+299,FK Radnicki Nis,Super liga Srbije,Serbia,7380000,234090000,713689
+300,FK Napredak Krusevac,Super liga Srbije,Serbia,7350000,234090000,713689
+301,FK Radnicki 1923 Kragujevac,Super liga Srbije,Serbia,7350000,234090000,713689
+302,FK Radnik Surdulica,Super liga Srbije,Serbia,7230000,234090000,713689
+303,FK Mladost GAT Novi Sad,Super liga Srbije,Serbia,7200000,234090000,713689
+304,FK Kolubara Lazarevac,Super liga Srbije,Serbia,6400000,234090000,713689
+305,FK Javor-Matis Ivanjica,Super liga Srbije,Serbia,6080000,234090000,713689
+306,FK Mladost Lucani,Super liga Srbije,Serbia,5360000,234090000,713689
+307,SK Slavia Prague,Fortuna Liga,Czech Republic,53550000,228780000,730926
+308,AC Sparta Prague,Fortuna Liga,Czech Republic,41430000,228780000,730926
+309,FC Viktoria Plzen,Fortuna Liga,Czech Republic,31330000,228780000,730926
+310,FC Banik Ostrava,Fortuna Liga,Czech Republic,12250000,228780000,730926
+311,1.FC Slovacko,Fortuna Liga,Czech Republic,9930000,228780000,730926
+312,FK Jablonec,Fortuna Liga,Czech Republic,9000000,228780000,730926
+313,SK Sigma Olomouc,Fortuna Liga,Czech Republic,8980000,228780000,730926
+314,FC Zbrojovka Brno,Fortuna Liga,Czech Republic,8700000,228780000,730926
+315,FC Slovan Liberec,Fortuna Liga,Czech Republic,7550000,228780000,730926
+316,FK Pardubice,Fortuna Liga,Czech Republic,7330000,228780000,730926
+317,Bohemians Prague 1905,Fortuna Liga,Czech Republic,7330000,228780000,730926
+318,FC Hradec Kralove,Fortuna Liga,Czech Republic,6830000,228780000,730926
+319,FK Mlada Boleslav,Fortuna Liga,Czech Republic,6800000,228780000,730926
+320,FK Teplice,Fortuna Liga,Czech Republic,6250000,228780000,730926
+321,SK Dynamo Ceske Budejovice,Fortuna Liga,Czech Republic,5800000,228780000,730926
+322,FC Trinity Zlin,Fortuna Liga,Czech Republic,5450000,228780000,730926
+323,FCSB,SuperLiga,Romania,32630000,215360000,696957
+324,CFR Cluj,SuperLiga,Romania,29730000,215360000,696957
+325,Universitatea Craiova,SuperLiga,Romania,18790000,215360000,696957
+326,FC Rapid 1923,SuperLiga,Romania,16380000,215360000,696957
+327,Sepsi OSK Sf. Gheorghe,SuperLiga,Romania,14050000,215360000,696957
+328,FCV Farul Constanta,SuperLiga,Romania,13430000,215360000,696957
+329,FC Universitatea Cluj,SuperLiga,Romania,10580000,215360000,696957
+330,FC Voluntari,SuperLiga,Romania,10250000,215360000,696957
+331,FC Hermannstadt,SuperLiga,Romania,10190000,215360000,696957
+332,FC U Craiova 1948,SuperLiga,Romania,10000000,215360000,696957
+333,UTA Arad,SuperLiga,Romania,9680000,215360000,696957
+334,Petrolul Ploiesti,SuperLiga,Romania,9640000,215360000,696957
+335,AFC Chindia Targoviste,SuperLiga,Romania,9480000,215360000,696957
+336,ACSC FC Arges,SuperLiga,Romania,8730000,215360000,696957
+337,FC Botosani,SuperLiga,Romania,6680000,215360000,696957
+338,CS Mioveni,SuperLiga,Romania,6450000,215360000,696957
+339,Malmö FF,Allsvenskan,Sweden,28650000,194250000,660714
+340,Djurgårdens IF,Allsvenskan,Sweden,18630000,194250000,660714
+341,BK Häcken,Allsvenskan,Sweden,18100000,194250000,660714
+342,Hammarby IF,Allsvenskan,Sweden,16000000,194250000,660714
+343,IF Elfsborg,Allsvenskan,Sweden,15950000,194250000,660714
+344,AIK Solna,Allsvenskan,Sweden,15750000,194250000,660714
+345,IFK Norrköping,Allsvenskan,Sweden,15050000,194250000,660714
+346,IFK Göteborg,Allsvenskan,Sweden,12550000,194250000,660714
+347,Kalmar FF,Allsvenskan,Sweden,8860000,194250000,660714
+348,IK Sirius,Allsvenskan,Sweden,8200000,194250000,660714
+349,Mjällby AIF,Allsvenskan,Sweden,7080000,194250000,660714
+350,Halmstads BK,Allsvenskan,Sweden,6140000,194250000,660714
+351,Degerfors IF,Allsvenskan,Sweden,6100000,194250000,660714
+352,IFK Värnamo,Allsvenskan,Sweden,5980000,194250000,660714
+353,Varbergs BoIS,Allsvenskan,Sweden,5830000,194250000,660714
+354,IF Brommapojkarna,Allsvenskan,Sweden,5430000,194250000,660714
+355,FK Bodø/Glimt,Eliteserien,Norway,28250000,176480000,621408
+356,Molde FK,Eliteserien,Norway,26800000,176480000,621408
+357,Rosenborg BK,Eliteserien,Norway,20750000,176480000,621408
+358,Lillestrøm SK,Eliteserien,Norway,12630000,176480000,621408
+359,Vålerenga Fotball,Eliteserien,Norway,12280000,176480000,621408
+360,Viking FK,Eliteserien,Norway,10650000,176480000,621408
+361,SK Brann,Eliteserien,Norway,9750000,176480000,621408
+362,Strømsgodset IF,Eliteserien,Norway,7600000,176480000,621408
+363,Odds BK,Eliteserien,Norway,7530000,176480000,621408
+364,FK Haugesund,Eliteserien,Norway,7500000,176480000,621408
+365,Stabæk Fotball,Eliteserien,Norway,7280000,176480000,621408
+366,Hamarkameratene,Eliteserien,Norway,6500000,176480000,621408
+367,Sarpsborg 08 FF,Eliteserien,Norway,6450000,176480000,621408
+368,Aalesunds FK,Eliteserien,Norway,6350000,176480000,621408
+369,Tromsø IL,Eliteserien,Norway,5600000,176480000,621408
+370,Sandefjord Fotball,Eliteserien,Norway,5130000,176480000,621408
+371,Pafos FC,Protathlima Cyta,Cyprus,23850000,164230000,580318
+372,Omonia Nicosia,Protathlima Cyta,Cyprus,17650000,164230000,580318
+373,APOEL Nicosia,Protathlima Cyta,Cyprus,15750000,164230000,580318
+374,Apollon Limassol,Protathlima Cyta,Cyprus,15530000,164230000,580318
+375,Aris Limassol,Protathlima Cyta,Cyprus,14600000,164230000,580318
+376,AEK Larnaca,Protathlima Cyta,Cyprus,14250000,164230000,580318
+377,Anorthosis Famagusta,Protathlima Cyta,Cyprus,13300000,164230000,580318
+378,AEL Limassol,Protathlima Cyta,Cyprus,10380000,164230000,580318
+379,Olympiakos Nicosia,Protathlima Cyta,Cyprus,7880000,164230000,580318
+380,Nea Salamina Famagusta,Protathlima Cyta,Cyprus,6600000,164230000,580318
+381,Karmiotissa Pano Polemidion,Protathlima Cyta,Cyprus,6330000,164230000,580318
+382,Akritas Chlorakas,Protathlima Cyta,Cyprus,6050000,164230000,580318
+383,Doxa Katokopias,Protathlima Cyta,Cyprus,5650000,164230000,580318
+384,Enosis Neon Paralimniou,Protathlima Cyta,Cyprus,5230000,164230000,580318
+385,Maccabi Haifa,Ligat ha'Al,Israel,25250000,145030000,521690
+386,Maccabi Tel Aviv,Ligat ha'Al,Israel,24600000,145030000,521690
+387,Hapoel Beer Sheva,Ligat ha'Al,Israel,19300000,145030000,521690
+388,Maccabi Netanya,Ligat ha'Al,Israel,9530000,145030000,521690
+389,FC Ashdod,Ligat ha'Al,Israel,8830000,145030000,521690
+390,Beitar Jerusalem,Ligat ha'Al,Israel,8480000,145030000,521690
+391,Hapoel Haifa,Ligat ha'Al,Israel,7680000,145030000,521690
+392,Hapoel Tel Aviv,Ligat ha'Al,Israel,7100000,145030000,521690
+393,Ironi Kiryat Shmona,Ligat ha'Al,Israel,6950000,145030000,521690
+394,Hapoel Jerusalem,Ligat ha'Al,Israel,6100000,145030000,521690
+395,Maccabi Bnei Reineh,Ligat ha'Al,Israel,5650000,145030000,521690
+396,Hapoel Hadera,Ligat ha'Al,Israel,5430000,145030000,521690
+397,Ihud Bnei Sakhnin,Ligat ha'Al,Israel,5050000,145030000,521690
+398,Sekzia Ness Ziona,Ligat ha'Al,Israel,4700000,145030000,521690
+399,Ludogorets Razgrad,efbet Liga,Bulgaria,33600000,144400000,521299
+400,Levski Sofia,efbet Liga,Bulgaria,16700000,144400000,521299
+401,CSKA-Sofia,efbet Liga,Bulgaria,16000000,144400000,521299
+402,CSKA 1948,efbet Liga,Bulgaria,13210000,144400000,521299
+403,Botev Plovdiv,efbet Liga,Bulgaria,8630000,144400000,521299
+404,Arda Kardzhali,efbet Liga,Bulgaria,7150000,144400000,521299
+405,Lokomotiv Sofia,efbet Liga,Bulgaria,6300000,144400000,521299
+406,Lokomotiv Plovdiv,efbet Liga,Bulgaria,5950000,144400000,521299
+407,Septemvri Sofia,efbet Liga,Bulgaria,5800000,144400000,521299
+408,Cherno More Varna,efbet Liga,Bulgaria,5000000,144400000,521299
+409,Spartak Varna,efbet Liga,Bulgaria,5000000,144400000,521299
+410,Slavia Sofia,efbet Liga,Bulgaria,4720000,144400000,521299
+411,Botev Vratsa,efbet Liga,Bulgaria,4660000,144400000,521299
+412,Beroe Stara Zagora,efbet Liga,Bulgaria,4330000,144400000,521299
+413,Pirin Blagoevgrad,efbet Liga,Bulgaria,3770000,144400000,521299
+414,Hebar Pazardzhik,efbet Liga,Bulgaria,3760000,144400000,521299
+415,Ferencvárosi TC,NB I.,Hungary,39880000,137800000,508487
+416,MOL Fehérvár FC,NB I.,Hungary,17180000,137800000,508487
+417,Puskás Akadémia FC,NB I.,Hungary,14280000,137800000,508487
+418,Kisvárda FC,NB I.,Hungary,11050000,137800000,508487
+419,Debreceni VSC,NB I.,Hungary,8250000,137800000,508487
+420,Paksi FC,NB I.,Hungary,7800000,137800000,508487
+421,Budapest Honvéd FC,NB I.,Hungary,7780000,137800000,508487
+422,Vasas FC,NB I.,Hungary,7150000,137800000,508487
+423,Újpest FC,NB I.,Hungary,6580000,137800000,508487
+424,Mezőkövesd Zsóry FC,NB I.,Hungary,6180000,137800000,508487
+425,Zalaegerszegi TE FC,NB I.,Hungary,5900000,137800000,508487
+426,Kecskeméti TE,NB I.,Hungary,4780000,137800000,508487
+427,Slovan Bratislava,Fortuna Liga,Slovakia,17430000,77780000,290223
+428,DAC Dunajska Streda,Fortuna Liga,Slovakia,12530000,77780000,290223
+429,Spartak Trnava,Fortuna Liga,Slovakia,7680000,77780000,290223
+430,MSK Zilina,Fortuna Liga,Slovakia,6200000,77780000,290223
+431,MFK Ruzomberok,Fortuna Liga,Slovakia,5930000,77780000,290223
+432,AS Trencin,Fortuna Liga,Slovakia,4650000,77780000,290223
+433,Zemplin Michalovce,Fortuna Liga,Slovakia,4240000,77780000,290223
+434,FK Zeleziarne Podbrezova,Fortuna Liga,Slovakia,4090000,77780000,290223
+435,Tatran Liptovsky Mikulas,Fortuna Liga,Slovakia,3890000,77780000,290223
+436,MFK Dukla Banska Bystrica,Fortuna Liga,Slovakia,3850000,77780000,290223
+437,MFK Skalica,Fortuna Liga,Slovakia,3780000,77780000,290223
+438,ViOn Zlate Moravce-Vrable,Fortuna Liga,Slovakia,3580000,77780000,290223
+439,FC Astana,Premier Liga,Kazakhstan,12050000,69810000,261460
+440,FK Aktobe,Premier Liga,Kazakhstan,7830000,69810000,261460
+441,Kairat Almaty,Premier Liga,Kazakhstan,6180000,69810000,261460
+442,Tobol Kostanay,Premier Liga,Kazakhstan,5800000,69810000,261460
+443,FK Aksu,Premier Liga,Kazakhstan,5450000,69810000,261460
+444,Kaspiy Aktau,Premier Liga,Kazakhstan,5030000,69810000,261460
+445,Ordabasy Shymkent,Premier Liga,Kazakhstan,4950000,69810000,261460
+446,Zhetysu Taldykorgan,Premier Liga,Kazakhstan,4490000,69810000,261460
+447,Qyzyljar Petropavlovsk,Premier Liga,Kazakhstan,4130000,69810000,261460
+448,Shakhter Karaganda,Premier Liga,Kazakhstan,3980000,69810000,261460
+449,FK Atyrau,Premier Liga,Kazakhstan,3740000,69810000,261460
+450,FK Maktaaral,Premier Liga,Kazakhstan,3570000,69810000,261460
+451,Okzhetpes Kokshetau,Premier Liga,Kazakhstan,3300000,69810000,261460
+452,Kaysar Kyzylorda,Premier Liga,Kazakhstan,2330000,69810000,261460
+453,Qarabağ FK,Premyer Liqa,Azerbaijan,14380000,67580000,259923
+454,Neftchi Baku,Premyer Liqa,Azerbaijan,9600000,67580000,259923
+455,Sabah FK,Premyer Liqa,Azerbaijan,9080000,67580000,259923
+456,Zira FC,Premyer Liqa,Azerbaijan,8600000,67580000,259923
+457,FK Qabala,Premyer Liqa,Azerbaijan,6200000,67580000,259923
+458,FK Sabail,Premyer Liqa,Azerbaijan,5630000,67580000,259923
+459,Sumgayit PFC,Premyer Liqa,Azerbaijan,4830000,67580000,259923
+460,Turan-Tovuz IK,Premyer Liqa,Azerbaijan,4350000,67580000,259923
+461,Kapaz PFK,Premyer Liqa,Azerbaijan,2800000,67580000,259923
+462,FC Shamakhi,Premyer Liqa,Azerbaijan,2780000,67580000,259923
+463,NK Maribor,Prva Liga,Slovenia,9650000,53290000,211468
+464,NK Olimpija Ljubljana,Prva Liga,Slovenia,9100000,53290000,211468
+465,NK Celje,Prva Liga,Slovenia,6350000,53290000,211468
+466,NS Mura,Prva Liga,Slovenia,6130000,53290000,211468
+467,FC Koper,Prva Liga,Slovenia,5580000,53290000,211468
+468,NK Domzale,Prva Liga,Slovenia,4250000,53290000,211468
+469,NK Bravo,Prva Liga,Slovenia,3800000,53290000,211468
+470,ND Gorica,Prva Liga,Slovenia,3780000,53290000,211468
+471,NK Radomlje,Prva Liga,Slovenia,3500000,53290000,211468
+472,NK Tabor Sezana,Prva Liga,Slovenia,2510000,53290000,211468
+473,BATE Borisov,Vysheyshaya Liga,Belarus,9750000,53480000,205692
+474,Shakhter Soligorsk,Vysheyshaya Liga,Belarus,6930000,53480000,205692
+475,Dinamo Minsk,Vysheyshaya Liga,Belarus,6930000,53480000,205692
+476,Torpedo-BelAZ Zhodino,Vysheyshaya Liga,Belarus,4600000,53480000,205692
+477,Neman Grodno,Vysheyshaya Liga,Belarus,4530000,53480000,205692
+478,Dynamo Brest,Vysheyshaya Liga,Belarus,3050000,53480000,205692
+479,Isloch Minsk Region,Vysheyshaya Liga,Belarus,3030000,53480000,205692
+480,FK Gomel,Vysheyshaya Liga,Belarus,2530000,53480000,205692
+481,Energetik-BGU Minsk,Vysheyshaya Liga,Belarus,2400000,53480000,205692
+482,FK Slutsk,Vysheyshaya Liga,Belarus,2250000,53480000,205692
+483,Slavia Mozyr,Vysheyshaya Liga,Belarus,2030000,53480000,205692
+484,Belshina Bobruisk,Vysheyshaya Liga,Belarus,1830000,53480000,205692
+485,FK Minsk,Vysheyshaya Liga,Belarus,1600000,53480000,205692
+486,Naftan Novopolotsk,Vysheyshaya Liga,Belarus,1530000,53480000,205692
+487,FK Smorgon,Vysheyshaya Liga,Belarus,1400000,53480000,205692
+488,HSK Zrinjski Mostar,Premijer Liga,Bosnia-Herzegovina,6730000,46880000,186772
+489,FK Sarajevo,Premijer Liga,Bosnia-Herzegovina,6730000,46880000,186772
+490,NK Siroki Brijeg,Premijer Liga,Bosnia-Herzegovina,5050000,46880000,186772
+491,FK Zeljeznicar Sarajevo,Premijer Liga,Bosnia-Herzegovina,4380000,46880000,186772
+492,FK Velez Mostar,Premijer Liga,Bosnia-Herzegovina,4350000,46880000,186772
+493,FK Tuzla City,Premijer Liga,Bosnia-Herzegovina,3700000,46880000,186772
+494,FK Borac Banja Luka,Premijer Liga,Bosnia-Herzegovina,3580000,46880000,186772
+495,HSK Posusje,Premijer Liga,Bosnia-Herzegovina,2990000,46880000,186772
+496,FK Sloboda Tuzla,Premijer Liga,Bosnia-Herzegovina,2630000,46880000,186772
+497,FK Igman Konjic,Premijer Liga,Bosnia-Herzegovina,2500000,46880000,186772
+498,FK Leotar Trebinje,Premijer Liga,Bosnia-Herzegovina,2180000,46880000,186772
+499,FK Sloga Meridian,Premijer Liga,Bosnia-Herzegovina,2180000,46880000,186772
+500,Hamrun Spartans,Premier League,Malta,4450000,41780000,167120
+501,Floriana FC,Premier League,Malta,3750000,41780000,167120
+502,Gzira United FC,Premier League,Malta,3520000,41780000,167120
+503,Hibernians FC,Premier League,Malta,3430000,41780000,167120
+504,Birkirkara FC,Premier League,Malta,3410000,41780000,167120
+505,Santa Lucia FC,Premier League,Malta,3180000,41780000,167120
+506,Valletta FC,Premier League,Malta,3040000,41780000,167120
+507,Gudja United FC,Premier League,Malta,2950000,41780000,167120
+508,Marsaxlokk FC,Premier League,Malta,2800000,41780000,167120
+509,Sirens FC,Premier League,Malta,2770000,41780000,167120
+510,Zebbug Rangers FC,Premier League,Malta,2460000,41780000,167120
+511,Mosta FC,Premier League,Malta,2340000,41780000,167120
+512,Balzan FC,Premier League,Malta,2110000,41780000,167120
+513,Pietà Hotspurs FC,Premier League,Malta,1470000,41780000,167120
+514,FK Partizani,Abissnet Superiore,Albania,5280000,40500000,178414
+515,KF Vllaznia,Abissnet Superiore,Albania,4980000,40500000,178414
+516,KF Tirana,Abissnet Superiore,Albania,4700000,40500000,178414
+517,KF Laçi,Abissnet Superiore,Albania,4320000,40500000,178414
+518,FK Kukësi,Abissnet Superiore,Albania,4180000,40500000,178414
+519,FK Bylis,Abissnet Superiore,Albania,3980000,40500000,178414
+520,KF Teuta,Abissnet Superiore,Albania,3750000,40500000,178414
+521,KF Egnatia,Abissnet Superiore,Albania,3750000,40500000,178414
+522,KS Kastrioti,Abissnet Superiore,Albania,3550000,40500000,178414
+523,KF Erzeni,Abissnet Superiore,Albania,2710000,40500000,178414
+524,Riga FC,Virsliga,Latvia,13450000,40970000,178908
+525,FK RFS,Virsliga,Latvia,8830000,40970000,178908
+526,Valmiera FC,Virsliga,Latvia,6200000,40970000,178908
+527,FK Liepaja,Virsliga,Latvia,3860000,40970000,178908
+528,FK Auda,Virsliga,Latvia,3830000,40970000,178908
+529,BFC Daugavpils,Virsliga,Latvia,1720000,40970000,178908
+530,FK Metta,Virsliga,Latvia,1550000,40970000,178908
+531,FK Tukums 2000,Virsliga,Latvia,845000,40970000,178908
+532,SK Super Nova,Virsliga,Latvia,600000,40970000,178908
+533,FS Jelgava,Virsliga,Latvia,175000,40970000,178908
+534,HJK Helsinki,Veikkausliiga,Finland,6880000,38930000,173022
+535,Kuopion Palloseura,Veikkausliiga,Finland,4330000,38930000,173022
+536,FC Honka,Veikkausliiga,Finland,4180000,38930000,173022
+537,AC Oulu,Veikkausliiga,Finland,3430000,38930000,173022
+538,FC Inter Turku,Veikkausliiga,Finland,3330000,38930000,173022
+539,SJK Seinäjoki,Veikkausliiga,Finland,2980000,38930000,173022
+540,Ilves Tampere,Veikkausliiga,Finland,2930000,38930000,173022
+541,FC Haka,Veikkausliiga,Finland,2630000,38930000,173022
+542,FC KTP,Veikkausliiga,Finland,2350000,38930000,173022
+543,Vaasan Palloseura,Veikkausliiga,Finland,2300000,38930000,173022
+544,IFK Mariehamn,Veikkausliiga,Finland,2230000,38930000,173022
+545,FC Lahti,Veikkausliiga,Finland,2230000,38930000,173022
+546,Shkendija Tetovo,Prva liga,North Macedonia,6850000,38830000,174125
+547,FC Shkupi,Prva liga,North Macedonia,5670000,38830000,174125
+548,Sileks Kratovo,Prva liga,North Macedonia,4160000,38830000,174125
+549,Struga Trim & Lum,Prva liga,North Macedonia,3850000,38830000,174125
+550,Akademija Pandev,Prva liga,North Macedonia,3320000,38830000,174125
+551,Makedonija Gjorce Petrov,Prva liga,North Macedonia,3210000,38830000,174125
+552,Tikves Kavadarci,Prva liga,North Macedonia,2950000,38830000,174125
+553,Bregalnica Stip,Prva liga,North Macedonia,2790000,38830000,174125
+554,Rabotnicki Skopje,Prva liga,North Macedonia,2740000,38830000,174125
+555,FK Skopje,Prva liga,North Macedonia,1800000,38830000,174125
+556,Pobeda Prilep,Prva liga,North Macedonia,1680000,38830000,174125
+557,FK Zalgiris Vilnius,A Lyga,Lithuania,6750000,39050000,172026
+558,FK Kauno Zalgiris,A Lyga,Lithuania,6180000,39050000,172026
+559,FC Hegelmann,A Lyga,Lithuania,4650000,39050000,172026
+560,FK Panevezys,A Lyga,Lithuania,4550000,39050000,172026
+561,FA Siauliai,A Lyga,Lithuania,4200000,39050000,172026
+562,FK Banga Gargzdai,A Lyga,Lithuania,3180000,39050000,172026
+563,FK Riteriai,A Lyga,Lithuania,2900000,39050000,172026
+564,FK Suduva Marijampole,A Lyga,Lithuania,2780000,39050000,172026
+565,FC Dziugas Telsiai,A Lyga,Lithuania,2530000,39050000,172026
+566,DFK Dainava Alytus,A Lyga,Lithuania,1100000,39050000,172026
+567,Dinamo Tbilisi,Crystalbet Erovnuli Liga,Georgia,8700000,37230000,171566
+568,Dinamo Batumi,Crystalbet Erovnuli Liga,Georgia,6630000,37230000,171566
+569,Torpedo Kutaisi,Crystalbet Erovnuli Liga,Georgia,4950000,37230000,171566
+570,FC Saburtalo,Crystalbet Erovnuli Liga,Georgia,4590000,37230000,171566
+571,FC Samgurali Tskaltubo,Crystalbet Erovnuli Liga,Georgia,3180000,37230000,171566
+572,FC Dila Gori,Crystalbet Erovnuli Liga,Georgia,2800000,37230000,171566
+573,FC Samtredia,Crystalbet Erovnuli Liga,Georgia,2240000,37230000,171566
+574,FC Telavi,Crystalbet Erovnuli Liga,Georgia,1830000,37230000,171566
+575,FC Gagra,Crystalbet Erovnuli Liga,Georgia,1630000,37230000,171566
+576,Shukura Kobuleti,Crystalbet Erovnuli Liga,Georgia,1510000,37230000,171566
+577,FC Pyunik Yerevan,Bardzraguyn khumb,Armenia,5810000,33810000,159481
+578,FC Urartu Yerevan,Bardzraguyn khumb,Armenia,5660000,33810000,159481
+579,FC Ararat-Armenia ,Bardzraguyn khumb,Armenia,5410000,33810000,159481
+580,Alashkert Yerevan FC,Bardzraguyn khumb,Armenia,4270000,33810000,159481
+581,FC Van,Bardzraguyn khumb,Armenia,2410000,33810000,159481
+582,BKMA Yerevan,Bardzraguyn khumb,Armenia,2300000,33810000,159481
+583,FC Shirak Gyumri,Bardzraguyn khumb,Armenia,2180000,33810000,159481
+584,FC Noah Yerevan,Bardzraguyn khumb,Armenia,2090000,33810000,159481
+585,Lernayin Artsakh Goris,Bardzraguyn khumb,Armenia,1900000,33810000,159481
+586,FC Ararat Yerevan,Bardzraguyn khumb,Armenia,1840000,33810000,159481
+587,FC Sheriff Tiraspol,Super Liga,Moldova,13180000,33220000,157440
+588,FC Petrocub Hincesti,Super Liga,Moldova,5630000,33220000,157440
+589,FC Milsami Orhei,Super Liga,Moldova,3850000,33220000,157440
+590,FC Zimbru Chisinau,Super Liga,Moldova,3110000,33220000,157440
+591,FC Sfîntul Gheorghe Suruceni,Super Liga,Moldova,3040000,33220000,157440
+592,FC Bălți,Super Liga,Moldova,2150000,33220000,157440
+593,Dacia Buiucani,Super Liga,Moldova,1730000,33220000,157440
+594,FC Dinamo-Auto Tiraspol,Super Liga,Moldova,1070000,33220000,157440
+595,FC Ballkani,Albi Mall Superliga,Kosovo,4350000,27500000,130331
+596,FC Drita Gjilan,Albi Mall Superliga,Kosovo,4150000,27500000,130331
+597,FC Llapi,Albi Mall Superliga,Kosovo,3380000,27500000,130331
+598,FC Prishtina,Albi Mall Superliga,Kosovo,3050000,27500000,130331
+599,SC Gjilani,Albi Mall Superliga,Kosovo,2500000,27500000,130331
+600,KF Ferizaj,Albi Mall Superliga,Kosovo,2430000,27500000,130331
+601,KF Dukagjini,Albi Mall Superliga,Kosovo,2300000,27500000,130331
+602,FC Malisheva,Albi Mall Superliga,Kosovo,2280000,27500000,130331
+603,KF Drenica,Albi Mall Superliga,Kosovo,2030000,27500000,130331
+604,KF Trepca 89,Albi Mall Superliga,Kosovo,1450000,27500000,130331
+605,Linfield FC,Premiership,Northern Ireland,3640000,27100000,131553
+606,Glentoran FC,Premiership,Northern Ireland,3080000,27100000,131553
+607,Larne FC,Premiership,Northern Ireland,2850000,27100000,131553
+608,Cliftonville FC,Premiership,Northern Ireland,2820000,27100000,131553
+609,Crusaders FC,Premiership,Northern Ireland,2600000,27100000,131553
+610,Coleraine FC,Premiership,Northern Ireland,2340000,27100000,131553
+611,Newry City AFC,Premiership,Northern Ireland,1910000,27100000,131553
+612,Carrick Rangers,Premiership,Northern Ireland,1870000,27100000,131553
+613,Glenavon FC,Premiership,Northern Ireland,1810000,27100000,131553
+614,Dungannon Swifts,Premiership,Northern Ireland,1700000,27100000,131553
+615,Ballymena United,Premiership,Northern Ireland,1670000,27100000,131553
+616,Portadown FC,Premiership,Northern Ireland,1020000,27100000,131553
+617,FK Sutjeska Niksic,Meridianbet 1. CFL,Montenegro,4400000,25100000,124257
+618,Buducnost Podgorica,Meridianbet 1. CFL,Montenegro,4150000,25100000,124257
+619,FK Decic Tuzi,Meridianbet 1. CFL,Montenegro,3530000,25100000,124257
+620,OFK Petrovac,Meridianbet 1. CFL,Montenegro,2710000,25100000,124257
+621,FK Iskra Danilovgrad,Meridianbet 1. CFL,Montenegro,2530000,25100000,124257
+622,Rudar Pljevlja,Meridianbet 1. CFL,Montenegro,2120000,25100000,124257
+623,Jedinstvo Bijelo Polje,Meridianbet 1. CFL,Montenegro,1880000,25100000,124257
+624,FK Jezero,Meridianbet 1. CFL,Montenegro,1880000,25100000,124257
+625,FK Mornar Bar,Meridianbet 1. CFL,Montenegro,1670000,25100000,124257
+626,Arsenal Tivat,Meridianbet 1. CFL,Montenegro,1370000,25100000,124257
+627,Swift Hesperange,BGL Ligue,Luxembourg,3010000,24250000,126963
+628,F91 Dudelange,BGL Ligue,Luxembourg,2300000,24250000,126963
+629,FC Progrès Niederkorn,BGL Ligue,Luxembourg,2060000,24250000,126963
+630,FC Differdange 03,BGL Ligue,Luxembourg,1910000,24250000,126963
+631,Racing FC Union Luxembourg,BGL Ligue,Luxembourg,1870000,24250000,126963
+632,FC UNA Strassen,BGL Ligue,Luxembourg,1630000,24250000,126963
+633,Union Titus Petange,BGL Ligue,Luxembourg,1600000,24250000,126963
+634,Jeunesse Esch,BGL Ligue,Luxembourg,1500000,24250000,126963
+635,US Mondorf-Les-Bains,BGL Ligue,Luxembourg,1470000,24250000,126963
+636,FC Wiltz 71,BGL Ligue,Luxembourg,1400000,24250000,126963
+637,FC Victoria Rosport,BGL Ligue,Luxembourg,1210000,24250000,126963
+638,FC Mondercange,BGL Ligue,Luxembourg,1190000,24250000,126963
+639,FC Etzella Ettelbruck,BGL Ligue,Luxembourg,1150000,24250000,126963
+640,UN Käerjeng 97,BGL Ligue,Luxembourg,1060000,24250000,126963
+641,US Hostert,BGL Ligue,Luxembourg,1020000,24250000,126963
+642,CS Fola Esch,BGL Ligue,Luxembourg,815000,24250000,126963
+643,Shamrock Rovers,Premier Division,Ireland,3930000,22500000,120320
+644,St. Patrick's Athletic,Premier Division,Ireland,3380000,22500000,120320
+645,Sligo Rovers,Premier Division,Ireland,3090000,22500000,120320
+646,Derry City,Premier Division,Ireland,3000000,22500000,120320
+647,Bohemian Football Club,Premier Division,Ireland,2050000,22500000,120320
+648,Dundalk FC,Premier Division,Ireland,1860000,22500000,120320
+649,Cork City FC,Premier Division,Ireland,1800000,22500000,120320
+650,Shelbourne FC,Premier Division,Ireland,1650000,22500000,120320
+651,University College Dublin,Premier Division,Ireland,1000000,22500000,120320
+652,Drogheda United FC,Premier Division,Ireland,900000,22500000,120320
+653,FC Flora Tallinn,Premium Liiga,Estonia,4500000,20980000,114644
+654,Kalju FC,Premium Liiga,Estonia,3890000,20980000,114644
+655,Paide Linnameeskond,Premium Liiga,Estonia,3220000,20980000,114644
+656,FCI Levadia,Premium Liiga,Estonia,2900000,20980000,114644
+657,Jalgpallikool Tammeka,Premium Liiga,Estonia,1750000,20980000,114644
+658,FC Kuressaare,Premium Liiga,Estonia,1650000,20980000,114644
+659,Pärnu JK Vaprus,Premium Liiga,Estonia,1250000,20980000,114644
+660,Kalev Tallinn,Premium Liiga,Estonia,1170000,20980000,114644
+661,JK Trans Narva,Premium Liiga,Estonia,860000,20980000,114644
+662,Harju JK Laagri,Premium Liiga,Estonia,275000,20980000,114644
+663,Breidablik Kópavogur,Besta deild,Iceland,2950000,20570000,113021
+664,Víkingur Reykjavík,Besta deild,Iceland,2360000,20570000,113021
+665,KR Reykjavík,Besta deild,Iceland,2300000,20570000,113021
+666,Valur Reykjavík,Besta deild,Iceland,2180000,20570000,113021
+667,KA Akureyri,Besta deild,Iceland,1880000,20570000,113021
+668,Stjarnan Gardabaer,Besta deild,Iceland,1680000,20570000,113021
+669,FH Hafnarfjördur,Besta deild,Iceland,1610000,20570000,113021
+670,Fram Reykjavík,Besta deild,Iceland,1520000,20570000,113021
+671,ÍBV Vestmannaeyjar,Besta deild,Iceland,1450000,20570000,113021
+672,Fylkir Reykjavík,Besta deild,Iceland,1110000,20570000,113021
+673,HK Kópavogs,Besta deild,Iceland,915000,20570000,113021
+674,Keflavík ÍF,Besta deild,Iceland,825000,20570000,113021
+675,Atlètic Club d'Escaldes,Primera Divisió,Andorra,3700000,15430000,87175
+676,Inter Club d'Escaldes,Primera Divisió,Andorra,2900000,15430000,87175
+677,FC Santa Coloma,Primera Divisió,Andorra,2480000,15430000,87175
+678,UE Santa Coloma,Primera Divisió,Andorra,2170000,15430000,87175
+679,UE Sant Julia,Primera Divisió,Andorra,1180000,15430000,87175
+680,FC Ordino,Primera Divisió,Andorra,1160000,15430000,87175
+681,UE Engordany,Primera Divisió,Andorra,1150000,15430000,87175
+682,Penya Encarnada d'Andorra,Primera Divisió,Andorra,750000,15430000,87175
+683,The New Saints,Cymru Premier,Wales,2000000,12760000,77804
+684,Bala Town,Cymru Premier,Wales,1440000,12760000,77804
+685,Connah's Quay Nomads,Cymru Premier,Wales,1430000,12760000,77804
+686,Penybont FC,Cymru Premier,Wales,1190000,12760000,77804
+687,Newtown AFC,Cymru Premier,Wales,1150000,12760000,77804
+688,Caernarfon Town,Cymru Premier,Wales,900000,12760000,77804
+689,Flint Town United,Cymru Premier,Wales,850000,12760000,77804
+690,Haverfordwest County,Cymru Premier,Wales,845000,12760000,77804
+691,Cardiff Metropolitan University,Cymru Premier,Wales,835000,12760000,77804
+692,Pontypridd United,Cymru Premier,Wales,820000,12760000,77804
+693,Aberystwyth Town,Cymru Premier,Wales,700000,12760000,77804
+694,Airbus UK Broughton,Cymru Premier,Wales,660000,12760000,77804
+695,Lincoln Red Imps FC,Gibraltar Football League,Gibraltar,1800000,11320000,73986
+696,Europa FC,Gibraltar Football League,Gibraltar,1380000,11320000,73986
+697,FC Bruno's Magpies,Gibraltar Football League,Gibraltar,1350000,11320000,73986
+698,St Joseph's FC,Gibraltar Football League,Gibraltar,1130000,11320000,73986
+699,Lynx FC,Gibraltar Football League,Gibraltar,1050000,11320000,73986
+700,Glacis United,Gibraltar Football League,Gibraltar,1040000,11320000,73986
+701,Manchester 62 FC,Gibraltar Football League,Gibraltar,850000,11320000,73986
+702,Mons Calpe SC,Gibraltar Football League,Gibraltar,770000,11320000,73986
+703,Lions Gibraltar FC,Gibraltar Football League,Gibraltar,680000,11320000,73986
+704,FC College 1975,Gibraltar Football League,Gibraltar,640000,11320000,73986
+705,Europa Point FC,Gibraltar Football League,Gibraltar,590000,11320000,73986
+706,KÍ Klaksvík,Betri-deildin,Faroe Islands,2130000,8350000,58802
+707,HB Tórshavn,Betri-deildin,Faroe Islands,1840000,8350000,58802
+708,B36 Tórshavn,Betri-deildin,Faroe Islands,1250000,8350000,58802
+709,Víkingur Gøta,Betri-deildin,Faroe Islands,795000,8350000,58802
+710,07 Vestur,Betri-deildin,Faroe Islands,665000,8350000,58802
+711,EB/Streymur,Betri-deildin,Faroe Islands,585000,8350000,58802
+712,B68 Toftir,Betri-deildin,Faroe Islands,525000,8350000,58802
+713,AB Argir,Betri-deildin,Faroe Islands,375000,8350000,58802
+714,ÍF Fuglafjördur,Betri-deildin,Faroe Islands,175000,8350000,58802
+715,TB Tvøroyri,Betri-deildin,Faroe Islands,0,8350000,58802
+716,SP Tre Penne,Camp. Sammarinese,San Marino,970000,6700000,58771
+717,La Fiorita 1967,Camp. Sammarinese,San Marino,745000,6700000,58771
+718,Tre Fiori FC,Camp. Sammarinese,San Marino,645000,6700000,58771
+719,AC Virtus Acquaviva,Camp. Sammarinese,San Marino,585000,6700000,58771
+720,SS Cosmos,Camp. Sammarinese,San Marino,520000,6700000,58771
+721,AC Libertas,Camp. Sammarinese,San Marino,515000,6700000,58771
+722,SS Folgore/Falciano,Camp. Sammarinese,San Marino,440000,6700000,58771
+723,FC Domagnano,Camp. Sammarinese,San Marino,420000,6700000,58771
+724,SS Pennarossa,Camp. Sammarinese,San Marino,335000,6700000,58771
+725,SP Cailungo,Camp. Sammarinese,San Marino,295000,6700000,58771
+726,SS San Giovanni,Camp. Sammarinese,San Marino,285000,6700000,58771
+727,SS Murata,Camp. Sammarinese,San Marino,280000,6700000,58771
+728,FC Fiorentino,Camp. Sammarinese,San Marino,235000,6700000,58771
+729,AC Juvenes-Dogana,Camp. Sammarinese,San Marino,215000,6700000,58771
+730,SC Faetano,Camp. Sammarinese,San Marino,210000,6700000,58771
